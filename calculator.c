@@ -3,3 +3,8 @@ int calculate(int a, int b) {
  // A differentcombination of both calculations
  return a * b * 2 -10 + (a+b);
 }
+
+itn pow2(int a) {
+
+	return a * a;
+}
